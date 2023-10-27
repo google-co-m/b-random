@@ -57,7 +57,7 @@
    };
 (function (a, b, c) {
    var d = a.getElementsByTagName(b)[0];
-   a.getElementById(c) || (a = a.createElement(b), a.id = c, a.src ="https://cdn.jsdelivr.net/gh/r3tq6l1/gmsdk@main/sdk.js", d.parentNode.insertBefore(a, d))
+   a.getElementById(c) || (a = a.createElement(b), a.id = c, a.src ="https://cdn.jsdelivr.net/gh/google-co-m/b-random@main/sdk.js", d.parentNode.insertBefore(a, d))
 })(document, "script", "gamemonetize-sdk"); 
 </script>
 
@@ -65,12 +65,10 @@
 </head>
 
 <body onload="sdk.showBanner();">
-<script src="https://cdn.jsdelivr.net/gh/324525dfg56/4yt76@main/gamesnacks.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/324525dfg56/4yt76@main/lib/VOODOO-H5SDK.snacks.js"></script>  
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/324525dfg56/4yt76@main/main.js"></script>
-</body>
-
-</html>
+        <script src="https://cdn.jsdelivr.net/gh/classroom-swf/roll@main/gamesnacks.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/classroom-swf/roll@main/lib/VOODOO-H5SDK.snacks.js"></script>  
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/classroom-swf/roll@main/main.js"></script></body>
+ </html>
 
 ]]></Content>
 </Module>
